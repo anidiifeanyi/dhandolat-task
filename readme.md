@@ -1,4 +1,4 @@
-# Chat Bot App
+# Profile Managment and Chat Messaging
 
 A Chat Bot Node app built with MongoDB.
 Node,Express provides the RESTful API.
